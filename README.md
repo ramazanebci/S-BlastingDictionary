@@ -3,6 +3,7 @@
 自己搜集的爆破字典，包括常用用户名、密码弱口令、SQL 万能密码等  
 
 ## 更新日志：  
+日志以后不再更新，现在采用 cicd 自动更新 release，以 release 为准  
 2023.11.8 新增 StrongPassword 字典  
 2023.10.17 新增 CN_username1W 字典  
 2023.3.22 新增 markdown 字典  
