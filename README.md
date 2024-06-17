@@ -1,3 +1,4 @@
+
 # Sh4d0w-BlastingDictionary  
 ## 简介：  
 自己搜集的爆破字典，包括常用用户名、密码弱口令、SQL 万能密码等  
